@@ -1,0 +1,1 @@
+Implementation of Machine Learning models including ANN, LightGBM, CatBoost, Random Forest etc. replicating American option pricing model with Heston model. Greatly improved computational cost with acceptable accuracy
